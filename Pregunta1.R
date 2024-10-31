@@ -1,4 +1,4 @@
-#P(x=20)
+#P(x=20)f
 
 landa<-25
 exp(-landa)*landa^20/factorial(20)
